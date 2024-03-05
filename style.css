@@ -1,2 +1,12 @@
-body{ background-color: rgb(141, 5, 100);
-color: rgb(236, 227, 236);}
+body { background-color: rgb(34, 36, 185);
+color: rgb(67, 67, 168);
+font-size: 50px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+justify-content: center;
+justify-items: center;
+text-align: center;
+
+
+}
+
+.imagem-cabecalho{width: 5px;}
