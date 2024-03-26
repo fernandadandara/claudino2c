@@ -1,12 +1,28 @@
-body { background-color: rgb(34, 36, 185);
-color: rgb(67, 67, 168);
-font-size: 50px;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-justify-content: center;
-justify-items: center;
-text-align: center;
+body { background-color: rgb(0, 255, 68);
+    color: rgb(15, 15, 14);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+} .imagem-cabecalho{width: 200px;}
+
+.titulocabecalho
+{display: inline-block;
+  margin:0 16px;
+  padding: 100px 0;
+  font-size: 40px;}
+  .cabecalho{
+  background-color: rgb(20, 187, 92);
+  color: black;
+  display: flex;
+  justify-content: space-around;
+  padding: 24px 0;
+  }
+.cabecalho-item
+{display: inline-block;
+margin: 0 16px;
+padding: 24px 0;
+font-size: 24px;
 
 
-}
-
-.imagem-cabecalho{width: 5px;}
